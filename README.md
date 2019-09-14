@@ -54,3 +54,8 @@ workflows:
           requires:
             - build
 ```
+
+## Creating a new React app using TypeScript
+```
+$ yarn create react-app app --typescript
+```
