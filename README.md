@@ -59,3 +59,8 @@ workflows:
 ```
 $ yarn create react-app app --typescript
 ```
+
+## Installing storybook into js project (for testing components)
+```
+$ npx -p @storybook/cli sb init --type react
+```
