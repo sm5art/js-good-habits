@@ -64,3 +64,10 @@ $ yarn create react-app app --typescript
 ```
 $ npx -p @storybook/cli sb init --type react
 ```
+
+## For JS Apps
+
+### Ant Design https://ant.design/docs/react/introduce
+```
+$ yarn add antd
+```
